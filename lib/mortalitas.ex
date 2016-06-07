@@ -1,0 +1,2 @@
+defmodule Mortalitas do
+end
